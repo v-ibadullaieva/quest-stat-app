@@ -1,0 +1,17 @@
+[
+	{
+		"alias": "BN",
+		"status": "SUCCESS",
+		"globalId": 1
+	},
+	{
+		"alias": "SAM",
+		"status": "CRASH",
+		"globalId": 2
+	},
+	{
+		"alias": "FAS",
+		"status": "NO_DATA",
+		"globalId": 3
+	}
+]
